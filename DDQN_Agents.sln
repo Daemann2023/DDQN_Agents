@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DDQN_Agents", "DDQN_Agents.vcxproj", "{6A260F20-7FA3-47A4-BEAD-3F12C9376AA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A260F20-7FA3-47A4-BEAD-3F12C9376AA3}.Debug|x64.ActiveCfg = Debug|x64
+		{6A260F20-7FA3-47A4-BEAD-3F12C9376AA3}.Debug|x64.Build.0 = Debug|x64
+		{6A260F20-7FA3-47A4-BEAD-3F12C9376AA3}.Debug|x86.ActiveCfg = Debug|Win32
+		{6A260F20-7FA3-47A4-BEAD-3F12C9376AA3}.Debug|x86.Build.0 = Debug|Win32
+		{6A260F20-7FA3-47A4-BEAD-3F12C9376AA3}.Release|x64.ActiveCfg = Release|x64
+		{6A260F20-7FA3-47A4-BEAD-3F12C9376AA3}.Release|x64.Build.0 = Release|x64
+		{6A260F20-7FA3-47A4-BEAD-3F12C9376AA3}.Release|x86.ActiveCfg = Release|Win32
+		{6A260F20-7FA3-47A4-BEAD-3F12C9376AA3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {043DF961-2CAC-4AE0-81D8-DEAD1416E3C9}
+	EndGlobalSection
+EndGlobal
